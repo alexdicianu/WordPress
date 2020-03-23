@@ -1,4 +1,4 @@
-# WordPress test alex
+# WordPress test alex (update 2)
 
 This is a WordPress repository configured to run on the [Pantheon platform](https://pantheon.io).
 
